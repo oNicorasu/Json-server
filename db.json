@@ -1,0 +1,99 @@
+{
+  "carros": [
+    {
+      "id": 1,
+      "marca": "Mitsubishi",
+      "modelo": "Mitsubishi Lancer Evolution X",
+      "cor": "Branco",
+      "ano": "2011/2012"
+    },
+    {
+      "id": 2,
+      "marca": "Honda",
+      "modelo": "Civic",
+      "cor": "Preto",
+      "ano": "2021/2022"
+    },
+    {
+      "id": 3,
+      "marca": "Nissan",
+      "modelo": "Versa",
+      "cor": "Prata",
+      "ano": "2017/2018"
+    },
+    {
+      "id": 4,
+      "marca": "Subaru",
+      "modelo": "Impreza WRX STI",
+      "cor": "Azul",
+      "ano": "2015/2016"
+    }
+  ],
+  "Motos": [
+    {
+      "id": 1,
+      "marca": "Yamaha",
+      "modelo": "Fazer 250",
+      "cor": "Azul",
+      "ano": "2017/2018"
+    },
+    {
+      "id": 2,
+      "marca": "Honda",
+      "modelo": "PCX 150",
+      "cor": "Vermelha",
+      "ano": "2015/2016"
+    },
+    {
+      "id": 3,
+      "marca": "Yamaha",
+      "modelo": "Crosser",
+      "cor": "Bege",
+      "ano": "2021/2022"
+    },
+    {
+      "id": 4,
+      "marca": "Honda",
+      "modelo": "XRE 300",
+      "cor": "Preta",
+      "ano": "2019/2020"
+    }
+  ],
+  "utilitarios": [
+    {
+      "id": 1,
+      "marca": "Chevrolet",
+      "modelo": "S10",
+      "cor": "Branca",
+      "ano": "2019/2020"
+    },
+    {
+      "id": 2,
+      "marca": "Fiat",
+      "modelo": "Toro",
+      "cor": "Preta",
+      "ano": "2021/2022"
+    },
+    {
+      "id": 3,
+      "marca": "Volkswagen",
+      "modelo": "Saveiro",
+      "cor": "Prata",
+      "ano": "2015/2016"
+    },
+    {
+      "id": 4,
+      "marca": "Ford",
+      "modelo": "Ranger",
+      "cor": "Azul",
+      "ano": "2023"
+    },
+    {
+      "id": 5,
+      "marca": "Ford",
+      "modelo": "F-150 Raptor",
+      "cor": "Cinza",
+      "ano": "2022"
+    }
+  ]
+}
